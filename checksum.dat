@@ -3,7 +3,6 @@ f9596666d74014a15caba253c25f33cd9b615b99 *./basler/pylon_FireWire_Camera_Driver.
 01314bcb1c53dbf4454cab80e1fc25f1c17d414d *./basler/pylon_GigE_Filter_Driver.msi
 270b6e81fe2c696a75abf58f798c584f50144804 *./basler/pylon_GigE_Performance_Driver.msi
 ddb833ca189685ee56fa97a78ff058ebccfc8421 *./basler/pylon_USB_Camera_Driver.msi
-f6de4ff87bab86dd65ecb1e89d485fc1e129a996 *./checksum.dat
 e9616a6d0b7b9982a2cf741b5ae2b7b55f33f50f *./ftdi/amd64/ftbusui.dll
 87b813a8edcb6acc10397978d2846c451d81db6f *./ftdi/amd64/ftcserco.dll
 6e826f72f8661fe831816bae63f2d3afe7b71a05 *./ftdi/amd64/ftd2xx.lib
