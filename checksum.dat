@@ -1124,3 +1124,4 @@ a972170aa59b4461fa9739e00a6808dcebe72c24 *./ptgrey/PGRLWF/pgrlwf.cat
 d58f7ccaa876fe10f3a497a282e93e6857c8077f *./ptgrey/PGRUsb3/PGRUSBCam3.sys
 c194a8fd15810dc7c9012d61a3ca07740284e12a *./ptgrey/PGRUsb3/WdfCoInstaller01009.dll
 bc9f6b845cac8111a36facd77c92ce7a55d64b5c *./push.sh
+8fdac6e4b74cce6a4a6eb686d50fdd7ff8b1d740 *./push_app.sh
