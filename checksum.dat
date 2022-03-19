@@ -1086,6 +1086,7 @@ f8aac5c155408f0b40d23039c0144f05e95b5879 *./basler/pylon_GigE_Filter_Driver.msi
 ecd5574c9b7aa8a64b7ce7b24bf4d41f0fcb0718 *./basler/pylon_GigE_Performance_Driver.msi
 2f9009681d0a5aa745ed6d044a4ef2406bada4c8 *./basler/pylon_USB_Camera_Driver.msi
 e7b709f9cfb511fbce0d0e5c3c74b7e6249cddb1 *./DriverInstaller.exe
+a5f7d4913121ce13d25cfe01cdb9f71ff31059a6 *./FRSrvSetup.msi
 e9616a6d0b7b9982a2cf741b5ae2b7b55f33f50f *./ftdi/amd64/ftbusui.dll
 87b813a8edcb6acc10397978d2846c451d81db6f *./ftdi/amd64/ftcserco.dll
 6e826f72f8661fe831816bae63f2d3afe7b71a05 *./ftdi/amd64/ftd2xx.lib
